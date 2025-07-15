@@ -12,6 +12,7 @@ DURATION: 4 WEEKS
 
 
 🔐 Big Data Security and Compliance Framework
+
 📌 Project Title:
 Design a Framework to Ensure Security and Compliance (e.g., GDPR, HIPAA) for a Big Data System
 
