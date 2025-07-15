@@ -78,23 +78,3 @@ Data anonymization methods
 Designing security-first data architectures
 
 Aligning technical solutions with regulatory standards
-
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
-
-
-Tools
-
-
-
-ChatGPT c
