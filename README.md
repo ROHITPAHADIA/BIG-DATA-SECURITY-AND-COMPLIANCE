@@ -78,3 +78,5 @@ Data anonymization methods
 Designing security-first data architectures
 
 Aligning technical solutions with regulatory standards
+
+![Image](https://github.com/user-attachments/assets/23713f32-3595-4cfa-8edc-6ccb022e490c)
